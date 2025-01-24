@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Mysql.md",
+                "file": "Config/CardTemp.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Mysql"
+              "title": "CardTemp"
             }
           }
         ]
@@ -176,14 +176,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "9fe8cc5f4a9d310a",
+  "active": "dc6eed3533538fda",
   "lastOpenFiles": [
+    "Code/Redis.md",
     "Code/Mysql.md",
+    "Config/CardTemp.md",
     "Code.md",
     "Index/NoteList-Interview.md",
     "Code/Mysql",
     "Code",
-    "Config/FileTemp.md",
     "Index",
     "Config",
     "欢迎.md"
