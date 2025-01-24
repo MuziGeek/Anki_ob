@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a371c5dbb20a6559",
+        "id": "cffe107a88dd46d9",
         "type": "tabs",
         "children": [
           {
-            "id": "dc6eed3533538fda",
+            "id": "89e77eb8774d202a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config/CardTemp.md",
-                "mode": "source",
+                "file": "Code/Redis.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CardTemp"
+              "title": "Redis"
             }
           }
         ]
@@ -176,11 +176,12 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "dc6eed3533538fda",
+  "active": "89e77eb8774d202a",
   "lastOpenFiles": [
-    "Code/Redis.md",
     "Code/Mysql.md",
+    "Index/CardList-Code.md",
     "Config/CardTemp.md",
+    "Code/Redis.md",
     "Code.md",
     "Index/NoteList-Interview.md",
     "Code/Mysql",
