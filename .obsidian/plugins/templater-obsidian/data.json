@@ -1,12 +1,7 @@
 {
   "command_timeout": 5,
   "templates_folder": "Config",
-  "templates_pairs": [
-    [
-      "tianqi",
-      "curl -H \"Accept-Language: zh-CN\" \"wttr.in/上海?format=4\""
-    ]
-  ],
+  "templates_pairs": [],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
