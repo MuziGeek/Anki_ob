@@ -11,10 +11,14 @@
             "id": "4bb923ed3da822e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Config/CardTemp.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "CardTemp"
             }
           }
         ]
@@ -91,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Config/CardTemp.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Config/CardTemp.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,7 +127,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "Config/CardTemp.md"
+          },
           "icon": "lucide-list",
           "title": "大纲"
         }
@@ -153,5 +161,12 @@
     }
   },
   "active": "4bb923ed3da822e4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Index/CardList-Mysql.md",
+    "Config/CardTemp.md",
+    "Code/Redis.md",
+    "/Config/CardTemp.md",
+    "/Code/Redis.md",
+    "/Code/Mysql.md"
+  ]
 }
