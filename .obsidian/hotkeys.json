@@ -167,14 +167,6 @@
       "key": "4"
     }
   ],
-  "theme:use-dark": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "5"
-    }
-  ],
   "open-with-default-app:open": [
     {
       "modifiers": [
@@ -244,7 +236,9 @@
       "key": "PageDown"
     }
   ],
-  "file-explorer:new-file": [
+  "file-explorer:new-file": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "quickadd:choice:6c7a001f-2dd1-470f-be50-26f3e2ee1d88": [
     {
       "modifiers": [
         "Mod",
@@ -253,27 +247,11 @@
       "key": "N"
     }
   ],
-  "file-explorer:new-file-in-new-pane": [],
-  "editor:set-heading-1": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "1"
-    }
-  ],
-  "editor:set-heading-2": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "2"
-    }
-  ],
   "editor:set-heading-3": [
     {
       "modifiers": [
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "3"
     }
@@ -281,7 +259,8 @@
   "editor:set-heading-4": [
     {
       "modifiers": [
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "4"
     }
@@ -289,15 +268,35 @@
   "editor:set-heading-5": [
     {
       "modifiers": [
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "5"
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "2"
     }
   ],
   "editor:set-heading-6": [
     {
       "modifiers": [
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "6"
     }
