@@ -16,16 +16,22 @@
       "Cloze": "Text",
       "Image Occlusion": "Occlusion"
     },
-    "CONTEXT_FIELDS": {},
+    "CONTEXT_FIELDS": {
+      "Basic": "Back"
+    },
     "FOLDER_DECKS": {
       "Code": "",
       "Config": "",
-      "Index": ""
+      "Index": "",
+      "Code/Note": "",
+      "Code/Card": ""
     },
     "FOLDER_TAGS": {
       "Code": "",
       "Config": "",
-      "Index": ""
+      "Index": "",
+      "Code/Note": "",
+      "Code/Card": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -57,7 +63,8 @@
   },
   "Added Media": [],
   "File Hashes": {
-    "Code/Mysql.md": "cb4c84d2b2dec2ebc74e99c08415c1df"
+    "Code/Mysql.md": "034bd058fc99dc4798a26e532b90104e",
+    "Code/Redis.md": "5a17a27ca3ffc6877a59f1ef90e670f4"
   },
   "fields_dict": {
     "Basic": [
