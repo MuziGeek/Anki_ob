@@ -39,14 +39,14 @@
             "id": "c57f50cc24f484c4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-to-anki-plugin/data.json",
-                "bFile": ".obsidian/plugins/obsidian-to-anki-plugin/data.json",
-                "aRef": ""
+                "file": "Code/Card/Mysql.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "Mysql"
             }
           }
         ],
@@ -167,9 +167,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Code/Card/Mysql.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Mysql 的大纲"
             }
           },
           {
@@ -203,10 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c57f50cc24f484c4",
+  "active": "9fe8cc5f4a9d310a",
   "lastOpenFiles": [
-    "Code/Card/Mysql.md",
     "Code/Card/Redis.md",
+    "Code/Card/Mysql.md",
     "Config/CardTemp.md",
     "Index/CardList-Code.md",
     "Code/Note/Day1.md",
